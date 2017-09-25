@@ -2,6 +2,7 @@
 
 Static Dependency Injection service provider locator for complex web/plain applications.
 
+https://www.nuget.org/packages/DotNet.ServiceProvider.Locator
 
 Example for Rest Web API application:
 ``` C#
