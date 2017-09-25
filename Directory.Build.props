@@ -1,11 +1,5 @@
 ﻿<Project>
 
-
-  <PropertyGroup Condition="$(Configuration) == 'Release'">
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageOutputPath>../../.nupkgs</PackageOutputPath>
-  </PropertyGroup>
-
   <PropertyGroup>
     <Product>Dot NET Core Extensions</Product>
   </PropertyGroup>
